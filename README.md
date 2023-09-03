@@ -11,7 +11,7 @@ As an avid reader, I'm developing the best way to seamlessly update and track yo
 #### Online Library: 
 A rebuild of "Ink and Pages" using client-side rendering, this project was a challenge designed to deepen my understanding of fundamental technologies, using only Node.js, PostgreSQL, and JavaScript. 📖📚
 
-### Portfolio Website: 
+#### Portfolio Website: 
 My portfolio website is a canvas where I showcase my creative side through programming. It's a platform where I share the projects I've built and demonstrate my love for both design and technology. 💻🎨
 
 ## GitHub Projects 💼
