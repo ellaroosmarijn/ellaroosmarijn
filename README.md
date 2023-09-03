@@ -15,7 +15,7 @@ A rebuild of "Ink and Pages" using client-side rendering, this project was a cha
 My portfolio website is a canvas where I showcase my creative side through programming. It's a platform where I share the projects I've built and demonstrate my love for both design and technology. 💻🎨
 
 ## GitHub Projects 💼
-Explore key projects like [Two Minds One](https://github.com/ellaroosmarijn/two-minds-one), [Ink & Pages (aka. my-fullstack-app)](https://github.com/ellaroosmarijn/my-fullstack-app), [Online Library](https://github.com/ellaroosmarijn/my-fullstack-app), and my [Portfolio Website](https://github.com/ellaroosmarijn/portfolio) showcasing my proficiency in React, Redux, TypeScript, and more.
+Explore key projects like [Two Minds One](https://github.com/ellaroosmarijn/two-minds-one), [Ink & Pages](https://github.com/ellaroosmarijn/my-fullstack-app) (aka. my-fullstack-app), [Online Library](https://github.com/ellaroosmarijn/my-fullstack-app), and my [Portfolio Website](https://github.com/ellaroosmarijn/portfolio) showcasing my proficiency in React, Redux, TypeScript, and more.
 
 ## Connect with Me 📫
 I'm eager to connect with fellow developers and technology enthusiasts. Reach out through my GitHub profile, and let's discuss software development, technology, and collaboration opportunities.
