@@ -3,7 +3,7 @@ Hello, I'm Ella, a software developer passionate about creating efficient and us
 
 ## Current Projects 🚀
 #### Two Minds One: 
-This unique project, inspired by Jonathan Haidt's "The Righteous Mind," fosters understanding and unity by providing a safe space for constructive dialogue among individuals with differing opinions. 🗣️
+This unique project, inspired by Jonathan Haidt's "The Righteous Mind," fosters understanding and unity by providing a safe space for individuals to understand others' differing opinions. 🗣️
 
 #### Ink & Pages:
 As an avid reader, I'm developing the best way to seamlessly update and track your book collection and reading lists on the go, making technology work for us in our daily lives. 📘
@@ -15,7 +15,7 @@ A rebuild of "Ink and Pages" using client-side rendering, this project was a cha
 My portfolio website is a canvas where I showcase my creative side through programming. It's a platform where I share the projects I've built and demonstrate my love for both design and technology. 💻🎨
 
 ## GitHub Projects 💼
-Explore key projects like [Two Minds One](https://github.com/ellaroosmarijn/two-minds-one), [Ink & Pages](https://github.com/ellaroosmarijn/ink-and-pages.git), [Online Library](hhttps://github.com/ellaroosmarijn/online-library.git), and my [Portfolio Website](https://github.com/ellaroosmarijn/portfolio) showcasing my proficiency in React, Redux, TypeScript, and more.
+Explore key projects like [Two Minds One](https://github.com/ellaroosmarijn/two-minds-one), [Ink & Pages](https://github.com/ellaroosmarijn/ink-and-pages.git), [Online Library](https://github.com/ellaroosmarijn/online-library.git), and my [Portfolio Website](https://github.com/ellaroosmarijn/portfolio) showcasing my proficiency in React, Redux, TypeScript, and more.
 
 ## Connect with Me 📫
 I'm eager to connect with fellow developers and technology enthusiasts. Reach out through my GitHub profile, and let's discuss software development, technology, and collaboration opportunities.
